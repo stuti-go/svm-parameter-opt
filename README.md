@@ -41,11 +41,11 @@ The dataset includes:
 
 ### 3.1 Accuracy Across Samples
 
-![Results Table](results_table.png)
+![Results Table](images/results_table.png)
 
 ### 3.2 Learning Curve of Best Performing Model
 
-![Learning Curve](convergence_graph.png)
+![Learning Curve](images/convergence_graph.png)
 
 ---
 
